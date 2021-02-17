@@ -22,7 +22,7 @@
                     </div>
                     <h1 class="heading food-heading" data-ix="move-into-view" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 1200ms, transform 1200ms;">Coming Soon</h1>
                     <p class="paragraph p-food" data-ix="move-into-view-delay-1" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 900ms, transform 900ms;">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                    We're a new dining experience situated in the heart of The Queens Way. MEZA Resto & Bar engages your senses by capturing the modern and fresh flavourful cuisines from the Mediterranean basin.
                     </p>
                     <div class="w-form">
                         <form id="email-form" name="email-form" data-name="Email Form" class="form">
@@ -54,7 +54,7 @@
                 <div class="bottom" data-ix="reveal" style="opacity: 1; transition: opacity 600ms;">
                     <div class="folllow-text follow-food">Follow On:</div>
                     <ul class="list w-clearfix w-list-unstyled">
-                        <li class="list-item" data-ix="hover-float" style="transition: transform 800ms; transform: translateX(0px) translateY(0px);"><a href="#" class="follow-link follow-link-food">Twitter</a></li>
+                        <li class="list-item" data-ix="hover-float" style="transition: transform 800ms; transform: translateX(0px) translateY(0px);"><a href="#" class="follow-link follow-link-food">Yelp</a></li>
                         <li class="list-item" data-ix="hover-float"><a href="#" class="follow-link follow-link-food">Facebook</a></li>
                         <li class="list-item" data-ix="hover-float"><a href="#" class="follow-link follow-link-food">Instagram</a></li>
                     </ul>
