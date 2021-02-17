@@ -472,7 +472,7 @@ label {
 }
 
 .w-input::-webkit-input-placeholder, .w-select::-webkit-input-placeholder {
-    color:#999
+    color:#999 
 }
 
 .w-input:focus, .w-select:focus {
