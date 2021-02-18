@@ -22,7 +22,7 @@
                     </div>
                     <h1 class="heading food-heading" data-ix="move-into-view" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 1200ms, transform 1200ms;">Coming Soon</h1>
                     <p class="paragraph p-food" data-ix="move-into-view-delay-1" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 900ms, transform 900ms;">
-                    We're a new dining experience situated in the heart of The Queens Way. MEZA Resto & Bar engages your senses by capturing the modern and fresh flavourful cuisines from the Mediterranean basin.
+                    Meza Resto bar brings authentic rustic Mediterranean/Greek /Portugal plus more .. flare blended with a vibrant night life and will become the hot spot in Etobicoke neighborhood of Toronto the menu offers guests a true taste of Mediterranean grill Cousine featuring both classic and modern staples.like the food ,the space itself is warm ,modern and inviting atmosphere.
                     </p>
                     <div class="w-form">
                         <form id="email-form" name="email-form" data-name="Email Form" class="form">
