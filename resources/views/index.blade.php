@@ -22,7 +22,7 @@
                     </div>
                     <h1 class="heading food-heading" data-ix="move-into-view" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 1200ms, transform 1200ms;">Coming Soon</h1>
                     <p class="paragraph p-food" data-ix="move-into-view-delay-1" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 900ms, transform 900ms;">
-                    Meza Resto bar brings authentic rustic Mediterranean/Greek /Portugal plus more .. flare blended with a vibrant night life and will become the hot spot in Etobicoke neighborhood of Toronto the menu offers guests a true taste of Mediterranean grill Cousine featuring both classic and modern staples.like the food ,the space itself is warm ,modern and inviting atmosphere.
+                    Meza Resto Bar brings authentic Mediterranean, Greek, Portuguese plus more.  With a vibrant nightlife, this place will become the hot spot in the Etobicoke neighborhood of Toronto. The menu offers guests a true taste of a Mediterranean grill featuring both classic and modern cuisine.  Like the food, space itself is the warm, modern, and inviting atmosphere.
                     </p>
                     <div class="w-form">
                         <form id="email-form" name="email-form" data-name="Email Form" class="form">
@@ -54,10 +54,15 @@
                 <div class="bottom" data-ix="reveal" style="opacity: 1; transition: opacity 600ms;">
                     <div class="folllow-text follow-food">Follow On:</div>
                     <ul class="list w-clearfix w-list-unstyled">
-                        <li class="list-item" data-ix="hover-float" style="transition: transform 800ms; transform: translateX(0px) translateY(0px);"><a href="#" class="follow-link follow-link-food">Yelp</a></li>
+                        <!-- <li class="list-item" data-ix="hover-float" style="transition: transform 800ms; transform: translateX(0px) translateY(0px);"><a href="#" class="follow-link follow-link-food">Yelp</a></li> -->
                         <li class="list-item" data-ix="hover-float"><a href="#" class="follow-link follow-link-food">Facebook</a></li>
                         <li class="list-item" data-ix="hover-float"><a href="#" class="follow-link follow-link-food">Instagram</a></li>
                     </ul>
+                </div>
+                <div class="bottom" data-ix="reveal" style="opacity: 1; transition: opacity 600ms;">
+                    <div class="middle">
+                        <h5 style="text-align: center; color: #b3b3b3; font-size: 12px;">622 THE QUEENSWAY </br>ETOBICOKE, ON M8Y 1K3</h5>
+                    </div>
                 </div>
             </div>
         </div>
