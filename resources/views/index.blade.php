@@ -61,7 +61,7 @@
                 </div>
                 <div class="bottom" data-ix="reveal" style="opacity: 1; transition: opacity 600ms;">
                     <div class="middle">
-                        <h5 style="text-align: center; color: #b3b3b3; font-size: 12px;">622 THE QUEENSWAY  </br>ETOBICOKE, ON M8Y 1K3</h5>
+                        <h5 style="text-align: center; color: #b3b3b3; font-size: 12px;">664 THE QUEENSWAY  </br>ETOBICOKE, ON M8Y 1K3</h5>
                     </div>
                 </div>
             </div>
