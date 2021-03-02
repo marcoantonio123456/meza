@@ -25,19 +25,20 @@
                     Meza Resto Bar brings authentic Mediterranean, Greek, Portuguese plus more.  With a vibrant nightlife, this place will become the hot spot in the Etobicoke neighborhood of Toronto. The menu offers guests a true taste of a Mediterranean grill featuring both classic and modern cuisine.  Like the food, space itself is the warm, modern, and inviting atmosphere.
                     </p>
                     <div class="w-form">
-                        <form id="email-form" name="email-form" data-name="Email Form" class="form">
+                        <form id="email-form" name="email-form" data-name="Email Form" class="form" action="/form/1" method="POST">
                             <input
                                 type="email"
                                 class="text-field input-food w-input"
                                 maxlength="256"
-                                name="email"
+                                name="email-2"
                                 data-name="Email"
                                 data-ix="move-into-view-delay-2"
                                 placeholder="Email"
-                                id="email"
+                                id="email-2"
                                 required=""
                                 style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 1200ms, transform 1200ms;"
                             />
+                            @csrf
                             <input
                                 type="submit"
                                 value="Sign Up"
@@ -47,8 +48,11 @@
                                 style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 1200ms, transform 1200ms;"
                             />
                         </form>
-                        <div class="w-form-done"><div>Thank you! Your submission has been received!</div></div>
-                        <div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div>
+                        @if(session()->has('message'))
+                            <div class="alert alert-success">
+                                {{ session()->get('message') }}
+                            </div>
+                        @endif
                     </div>
                 </div>
                 <div class="bottom" data-ix="reveal" style="opacity: 1; transition: opacity 600ms;">
